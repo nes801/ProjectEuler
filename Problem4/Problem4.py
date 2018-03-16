@@ -15,3 +15,4 @@ for i in range(999,99,-1):
             max= i*j if i*j > max else max
             break
 print(max)
+#906609
